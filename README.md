@@ -5,7 +5,9 @@ Author - PHYSCHODARKBEAUTY979
 <br>
 GTA
 <br>
-I Am PHYSCHO
+I Am Sumit git 
 <br>
 This is My Learning Phase
+<br>
+How git & github works
 <br>
